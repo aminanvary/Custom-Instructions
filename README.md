@@ -4,7 +4,7 @@ Welcome to my collection of custom instructions for Claude! This repository cont
 
 ## What's In This Repository?
 
-This repository contains custom instructions that can be used with Claude desktop to enhance its capabilities for specific tasks and workflows. Each instruction file is designed to be copied and pasted directly into Claude's custom instructions section.
+This repository contains custom instructions that can be used with Claude desktop to enhance its capabilities for specific tasks and workflows. Each instruction file is designed to be copied and pasted directly into Claude Projects.
 
 ## Requirements
 
@@ -21,10 +21,13 @@ To use these instructions, you'll need:
 
 1. Install the Claude desktop application if you haven't already
 2. Set up the required MCP servers mentioned in the specific instruction
-3. Open the instruction file you want to use
-4. Copy the content from the code block section in the instruction file
-5. Paste it into Claude desktop's custom instructions section
-6. Start a conversation with Claude referencing the instruction
+3. Create a new Claude Project for the specific purpose (e.g., a "News Source Finder" project)
+4. Open the instruction file you want to use in this repository
+5. Copy the content from the code block section in the instruction file
+6. Paste it into the Claude Project's custom instructions section
+7. Start a conversation within that project referencing the instruction
+
+Creating separate Claude Projects for each instruction type allows you to organize your work and maintain different specialized versions of Claude for different tasks.
 
 ## Ongoing Development
 
