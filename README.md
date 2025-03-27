@@ -19,13 +19,14 @@ To use these instructions, you'll need:
 
 ## How to Use These Instructions
 
-1. Install the Claude desktop application if you haven't already
-2. Set up the required MCP servers mentioned in the specific instruction
-3. Create a new Claude Project for the specific purpose (e.g., a "News Source Finder" project)
-4. Open the instruction file you want to use in this repository
-5. Copy the content from the code block section in the instruction file
-6. Paste it into the Claude Project's custom instructions section
-7. Start a conversation within that project referencing the instruction
+1. Install Node.js on your system if you haven't already. Download and install the latest version from https://nodejs.org/en/download
+2. Install the Claude desktop application if you haven't already
+3. Set up the required MCP servers mentioned in the specific instruction
+4. Create a new Claude Project for the specific purpose (e.g., a "News Source Finder" project)
+5. Open the instruction file you want to use in this repository
+6. Copy the content from the code block section in the instruction file
+7. Paste it into the Claude Project's custom instructions section
+8. Start a conversation within that project referencing the instruction
 
 Creating separate Claude Projects for each instruction type allows you to organize your work and maintain different specialized versions of Claude for different tasks.
 
