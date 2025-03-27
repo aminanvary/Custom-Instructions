@@ -19,7 +19,7 @@ To use these instructions, you'll need:
 
 ## How to Use These Instructions
 
-1. Install Node.js on your system if you haven't already. Download and install the latest version from https://nodejs.org/en/download
+1. Node.js should be installed on your system. If it's not, install the latest version from [this link](https://nodejs.org/en/download)
 2. Install the Claude desktop application if you haven't already
 3. Set up the required MCP servers mentioned in the specific instruction
 4. Create a new Claude Project for the specific purpose (e.g., a "News Source Finder" project)
