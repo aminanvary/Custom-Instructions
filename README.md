@@ -16,6 +16,7 @@ To use these instructions, you'll need:
 ## Available Instructions
 
 - [News First Source](./News-First-Source.md) - A protocol for determining the earliest published source of a news story using Claude and MCP servers.
+- [Deepest Research](./Deepest-Research.md) - A protocol transforming Claude into a methodical research assistant who conducts exhaustive investigations through systematic research cycles.
 
 ## How to Use These Instructions
 
