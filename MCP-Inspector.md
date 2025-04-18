@@ -231,4 +231,3 @@ The final assessment document follows a standardized format:
 * Usability Assessment
 * Final Verdict
 * Key Recommendations
-```
