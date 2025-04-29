@@ -18,6 +18,7 @@ To use these instructions, you'll need:
 - [News First Source](./News-First-Source.md) - A protocol for determining the earliest published source of a news story using Claude and MCP servers.
 - [Deepest Research](./Deepest-Research.md) - A protocol transforming Claude into a methodical research assistant who conducts exhaustive investigations through systematic research cycles.
 - [MCP Inspector](./MCP-Inspector.md) - A protocol that transforms Claude into a comprehensive MCP server evaluation system that automatically analyzes GitHub repositories containing MCP servers for security, privacy, and reliability risks.
+- [Ultra Search](./Ultra-Search.md) - A protocol that maximizes Claude Desktop's research and information gathering capabilities by automatically activating and intelligently combining multiple MCP tools.
 
 ## How to Use These Instructions
 
